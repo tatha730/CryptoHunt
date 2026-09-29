@@ -1,0 +1,25 @@
+# Backend (Python)
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Frontend (Node.js)
+node_modules/
+npm-debug.log*
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

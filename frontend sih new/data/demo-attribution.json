@@ -1,0 +1,10 @@
+{
+  "target": "0x7A4E...91C2",
+  "chain": "Ethereum",
+  "attribution": {
+    "top_candidate": "Binance",
+    "score": 87,
+    "confidence": "HIGH"
+  },
+  "note": "All values in this prototype are simulated demonstration data and must not be treated as real attribution evidence."
+}
