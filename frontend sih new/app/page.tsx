@@ -779,7 +779,7 @@ export default function Home() {
               <strong>{top.confidence} / 100</strong>
             </div>
 
-            {analysis.demo_attribution?.demo_mode && (
+            {analysis?.demo_attribution?.demo_mode && (
               <div style={{
                 marginTop: 12,
                 padding: 12,
