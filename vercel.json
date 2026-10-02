@@ -6,7 +6,7 @@
       "framework": "fastapi"
     },
     "frontendsihnew": {
-      "root": "frontend sih new",
+      "root": "frontend",
       "framework": "nextjs"
     }
   },
