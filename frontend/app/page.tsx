@@ -8,7 +8,7 @@ import {
   X, Activity, Network, FileText, Loader2
 } from "lucide-react";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "";
 
 const sampleAddress = "0x742d35Cc6634C0532925a3b844Bc454e4438f44e";
 
